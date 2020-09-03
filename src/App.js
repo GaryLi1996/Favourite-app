@@ -4,6 +4,7 @@ import AddLink from "./components/addLinkings";
 import BorderBox from "./components/borderBox";
 
 class App extends Component {
+  // For local storage 
   userData;
 
   state = {
