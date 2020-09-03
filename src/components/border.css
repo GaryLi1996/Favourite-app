@@ -1,0 +1,21 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px;
+}
+
+.setting {
+  position: flex;
+  top: 10%;
+  right: 5px;
+  margin: 3px;
+  padding: 5px;
+  background-color: yellow;
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.setting:hover {
+  background-color: red;
+}
