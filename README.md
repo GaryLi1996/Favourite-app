@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a react application that allows you to save your favourite links and allows you to go there directly.
+
 ## Available Scripts
 
 In the project directory, you can run:
